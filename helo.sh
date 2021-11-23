@@ -5,4 +5,4 @@ echo hello
 echo how r  u
  
  
- kaise ho 
+ echo kaise ho 
